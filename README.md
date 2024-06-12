@@ -26,6 +26,6 @@ I am currently looking for work and ways to improve. If you have any resources, 
 I am relatively new to the industry, having just graduated from a coding bootcamp, and I can’t wait to get my foot in the door. For most of my life, I didn’t see this as an option since computers were hard to come by in my household growing up. However, after developing new friendships with people in the industry, I decided to try something new and developed a strong interest. I can't wait to find a career in this industry and be happy doing something I love.
 
 
-# Contact
+## Contact
 
 Please feel free to email me at mauryhughesiv@gmail.com. Thank you!
