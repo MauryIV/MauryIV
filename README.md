@@ -3,12 +3,12 @@
 
 ## Current Projects
 
-At the moment, I am revisiting some projects from school to polish them further. I have developed friendships with other students from my bootcamp, and we have a few different projects we want to collaborate on. One is a non-biased informative political application, another is a musical ticketing application. I am also in talks with a friend who is a business owner to build a website for her.
+At the moment, I am revisiting some projects from school to polish them further. I have developed friendships with other students from my bootcamp, and we have a few different projects we want to collaborate on. One is a non-biased informative political application, another is a musical ticketing application. I am also working with a business owner to build a website for her.
 
 
 ## Currently Learning
 
-I am working to perfect my JavaScript knowledge but I love picking up new tools to help in that process. Other languages are something I can't wait to tackle, but I want to be sure to have extensive knowledge to make transitioning more simplistic.
+I am working to perfect my JavaScript knowledge and have been working on algorithms as well. But I do love picking up new tools to help in that process. Other languages are something I can't wait to tackle, but I want to be sure to have extensive knowledge to make transitioning more simplistic.
 
 
 ## Collaborations
