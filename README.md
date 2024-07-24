@@ -3,7 +3,7 @@
 
 ## Current Projects
 
-At the moment, I am revisiting some projects from school to polish them further. I have developed friendships with other students from my bootcamp, and we have a few different projects we want to collaborate on. One is a non-biased informative political application, another is a musical ticketing application. I am also working with a business owner to build a website for her.
+At the moment, I am revisiting some projects from school to polish them further. I am working on a few projects including a game I am in the process of creating and a musical ticketing application. I am also working with a business owner to build a website for her.
 
 
 ## Currently Learning
